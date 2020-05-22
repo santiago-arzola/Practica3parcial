@@ -1,1 +1,1 @@
-Python hola.py
+python hola.py
